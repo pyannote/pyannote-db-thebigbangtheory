@@ -50,7 +50,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'pyannote.core >= 1.0',
-        'pyannote.database >= 0.11.2',
+        'pyannote.database >= 0.12',
         'pandas >= 0.17.1'
     ],
     classifiers=[
@@ -62,6 +62,7 @@ setup(
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
         "Topic :: Scientific/Engineering"
     ],
 
