@@ -1,0 +1,3 @@
+include versioneer.py
+include TheBigBangTheory/_version.py
+recursive-include TheBigBangTheory/data *
